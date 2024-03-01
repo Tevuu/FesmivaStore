@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "title": "TSHXRT",
+    "price": "12400",
+    "category": "Футболки",
+    "img": "https://torch-fff.com/upload/iblock/bac/bacc076d421f9bc8248826de8659126b.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 2,
+    "title": "TSHXRT",
+    "price": "8900",
+    "category": "Футболки",
+    "img": "https://torch-fff.com/upload/iblock/64f/64faeccdfb96afd2acbe747b6ca76b29.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 3,
+    "title": "TSHXRT",
+    "price": "7900",
+    "category": "Футболки",
+    "img": "https://torch-fff.com/upload/iblock/19b/19bd9cae8f0c800b8c512cd88c870184.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 4,
+    "title": "TSHXRT",
+    "price": "7300",
+    "category": "Футболки",
+    "img": "https://torch-fff.com/upload/iblock/f1b/f1bdf25d6ae42c41e62d09fa0743a33e.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 5,
+    "title": "HXXDRR",
+    "price": "1600",
+    "category": "Худи",
+    "img": "https://torch-fff.com/upload/iblock/64f/64faeccdfb96afd2acbe747b6ca76b29.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 6,
+    "title": "HXXDRR",
+    "price": "3600",
+    "category": "Худи",
+    "img": "https://torch-fff.com/upload/iblock/b4f/b4f6ab8387efc45fcfcf68734e372dc8.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 7,
+    "title": "HXXDRR",
+    "price": "7900",
+    "category": "Худи",
+    "img": "https://torch-fff.com/upload/iblock/f48/f48fdaf8a2f6d9b412605e6574888a44.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 8,
+    "title": "PXNTX",
+    "price": "6300",
+    "category": "Штаны",
+    "img": "https://torch-fff.com/upload/iblock/163/16356545f0be1ae97c553822ae6f5396.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 9,
+    "title": "PXNTX",
+    "price": "12900",
+    "category": "Pants",
+    "img": "https://torch-fff.com/upload/resize_cache/iblock/c55/235_300_1/c55252fa936571c26ade1c714ec96be3.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 10,
+    "title": "PXNTX",
+    "price": "3900",
+    "category": "Штаны",
+    "img": "https://torch-fff.com/upload/iblock/163/16356545f0be1ae97c553822ae6f5396.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 11,
+    "title": "PXRPLX",
+    "price": "6600",
+    "category": "Шарфы",
+    "img": "https://torch-fff.com/upload/iblock/157/157c14765c7373a4b084ae10359e8314.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 12,
+    "title": "PXRPLX",
+    "price": "6900",
+    "category": "Шарфы",
+    "img": "https://torch-fff.com/upload/iblock/157/157c14765c7373a4b084ae10359e8314.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 13,
+    "title": "PXRPLX",
+    "price": "3900",
+    "category": "Шарфы",
+    "img": "https://torch-fff.com/upload/iblock/157/157c14765c7373a4b084ae10359e8314.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 14,
+    "title": "SOCKS-66",
+    "price": "2133",
+    "category": "Носки",
+    "img": "https://torch-fff.com/upload/iblock/1d0/1d0111897148d1d4e2190731db1e13c9.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 15,
+    "title": "SOCKS-26",
+    "price": "6666",
+    "category": "Носки",
+    "img": "https://torch-fff.com/upload/iblock/1d0/1d0111897148d1d4e2190731db1e13c9.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 16,
+    "title": "SOCKS-36",
+    "price": "1900",
+    "category": "Носки",
+    "img": "https://torch-fff.com/upload/iblock/4af/4af83243a5d94a4fcb40c88acbd35572.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 17,
+    "title": "VIOLENCE",
+    "price": "5200",
+    "category": "Худи",
+    "img": "https://torch-fff.com/upload/iblock/4b3/4b3df1fc18025477e95dc9ae5cd9935d.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 18,
+    "title": "DECIMATION SWEATER/BL",
+    "price": "5600",
+    "category": "Худи",
+    "img": "https://torch-fff.com/upload/iblock/9dc/9dc2cab9e962cadb2e18367ef9aaa0a0.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  },
+  {
+    "id": 19,
+    "title": "HORROR",
+    "price": "2000",
+    "category": "Худи",
+    "img": "https://torch-fff.com/upload/iblock/aea/aea0a9333e9f9aa7a52773fb04e57553.jpg",
+    "description": "Уникальный дизайн, лимитированная серия."
+  }
+]
