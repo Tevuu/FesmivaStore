@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tevuu.github.io/FesmivaStore/static/css/main.7821d36c.css",
+    "main.js": "/Tevuu.github.io/FesmivaStore/static/js/main.8c1523ef.js",
+    "index.html": "/Tevuu.github.io/FesmivaStore/index.html",
+    "main.7821d36c.css.map": "/Tevuu.github.io/FesmivaStore/static/css/main.7821d36c.css.map",
+    "main.8c1523ef.js.map": "/Tevuu.github.io/FesmivaStore/static/js/main.8c1523ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7821d36c.css",
+    "static/js/main.8c1523ef.js"
+  ]
+}
