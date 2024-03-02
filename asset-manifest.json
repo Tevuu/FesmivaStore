@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FesmivaStore/static/css/main.7821d36c.css",
-    "main.js": "/FesmivaStore/static/js/main.8c1523ef.js",
+    "main.css": "/FesmivaStore/static/css/main.0d7f4cdc.css",
+    "main.js": "/FesmivaStore/static/js/main.24d8de67.js",
     "index.html": "/FesmivaStore/index.html",
-    "main.7821d36c.css.map": "/FesmivaStore/static/css/main.7821d36c.css.map",
-    "main.8c1523ef.js.map": "/FesmivaStore/static/js/main.8c1523ef.js.map"
+    "main.0d7f4cdc.css.map": "/FesmivaStore/static/css/main.0d7f4cdc.css.map",
+    "main.24d8de67.js.map": "/FesmivaStore/static/js/main.24d8de67.js.map"
   },
   "entrypoints": [
-    "static/css/main.7821d36c.css",
-    "static/js/main.8c1523ef.js"
+    "static/css/main.0d7f4cdc.css",
+    "static/js/main.24d8de67.js"
   ]
 }
