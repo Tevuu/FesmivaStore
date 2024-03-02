@@ -16,7 +16,7 @@ export const ModalCart = ({ setModal, modal, tovari, setTovari }) => {
       }
       id="exit"
       onClick={handleClose}>
-      <div className="flex flex-col w-[60%] h-[70%] bg-[#1E1E20] rounded-lg p-4">
+      <div className="flex flex-col w-[80%] 2xl:w-[60%] h-auto bg-[#1E1E20] rounded-lg p-4">
         <div className="text-white font-light text-2xl flex w-full items-center justify-center h-min relative">
           Ваша корзина
           <img
@@ -25,7 +25,7 @@ export const ModalCart = ({ setModal, modal, tovari, setTovari }) => {
           />
         </div>
         <div className="flex flex-row w-full h-full p-4 mt-10">
-          <div className="w-[60%] bg-[#1E1E20] flex-col gap-4 flex h-[90%] overflow-y-auto">
+          <div className="w-[70%] bg-[#1E1E20] flex-col gap-4 flex h-[90%] overflow-y-auto">
             {tovari.map((item) => (
               <Cart
                 img={item.img}
@@ -37,7 +37,7 @@ export const ModalCart = ({ setModal, modal, tovari, setTovari }) => {
               />
             ))}
           </div>
-          <div className="w-[40%] bg-[#2C2C2E] h-[90%] rounded-lg p-8 gap-4 flex flex-col justify-between">
+          <div className="w-[40%] bg-[#2C2C2E] h-[max] rounded-lg p-8 gap-4 flex flex-col justify-between">
             <div className="flex gap-6 flex-col h-min">
               <div className="text-white/80 text-4xl font-light text-center ">
                 Позиций: {tovari.length}

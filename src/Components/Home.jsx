@@ -2,16 +2,16 @@ export const Home = () => {
   return (
     <div className="w-screen h-screen">
       <div className="">
-        <div className="text-white font-bold text-8xl w-1/4 fixed z-[5] top-[28%] left-[5%]">
+        <div className="text-white font-bold text-6xl xl:text-7xl 2xl:text-8xl w-1/4 fixed z-[5] top-[20%] 2xl:top-[28%] left-[5%]">
           Satan Clan is coming to town
         </div>
-        <div className="text-white font-light text-2xl w-1/4 fixed z-[5] top-[58%] left-[5%] opacity-50">
+        <div className="text-white font-light lg:text-md xl:texl-xl 2xl:text-2xl w-1/4 fixed z-[5] top-[59%] 2xl:top-[58%] left-[5%] opacity-50">
           it does not really matters what struggies you have been in 2024. All
           that matters to be happy! Hope you are all happy!
         </div>
         <a
           href="#shop"
-          className="text-black/80 scroll-smooth font-light text-2xl top-[70%] fixed z-[5] left-[5%] bg-white opacity-50  hover:opacity-100 py-2 px-4 rounded-lg duration-700">
+          className="text-black/80 scroll-smooth font-light text-2xl top-[78%] xl:top-[70%] fixed z-[5] left-[5%] bg-white opacity-50  hover:opacity-100 py-2 px-4 rounded-lg duration-700">
           Get the loot!
         </a>
       </div>
